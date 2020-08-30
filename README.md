@@ -16,4 +16,4 @@ A lot! I co-founded CodeLaboratories, a successful software and hardware company
 My interests are diverse. Currently I'm focused on blockchain, cryptography, security, software integrity and protection and secure computing and storage.
 
 #### Contact
-You can find me on Twitter as [**@nbougalis**](https://twitter.com/nbougalis). My personal webpage is **https://nik.bougalis.net**.
+You can find me on Twitter as [**@nbougalis**](https://twitter.com/nbougalis) and on [StackExchange](https://stackoverflow.com/users/970543/nik-bougalis). My personal webpage is **https://nik.bougalis.net**.
