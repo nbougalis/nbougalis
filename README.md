@@ -1,16 +1,19 @@
-### Hi there 👋
+### 👋 Hi! I'm Nik Bougalis.
 
-<!--
-**nbougalis/nbougalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### What I'm doing
+**Director, XPRING Engineering** at [**Ripple**](https://ripple.com)
 
-Here are some ideas to get you started:
+I am a software engineer and cryptographer. At Ripple, I work on open-source code, mostly around the XRP Ledger. My goal is to build a settlement solution that allows for real-time low-cost international payments over a global network that is open to everyone but is owned by no-one. Check out the [`rippled`](https://github.com/ripple/rippled) GitHub repo, which is the backbone of that effort.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also working on something cool at [**Number8**](http://www.number8.us/).
+
+#### What I've done
+
+A lot! I co-founded CodeLaboratories, a successful software and hardware company which makes the DUO3D stereo camera. Over the past twenty years, I have developed just about everything—from shiny user interfaces to low-level kernel drivers. I've worked on servers that handle tens of thousands of users, caching software that accelerates hard drives using SSDs and encrypted distributed storage & backup systems.
+
+#### My Interests
+
+My interests are diverse. Currently I'm focused on blockchain, cryptography, security, software integrity and protection and secure computing and storage.
+
+#### Contact
+You can find me on Twitter as [**@nbougalis**](https://twitter.com/nbougalis). My personal webpage is **https://nik.bougalis.net**.
