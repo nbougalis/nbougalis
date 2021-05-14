@@ -1,7 +1,7 @@
 ### 👋 Hi! I'm Nik Bougalis.
 
 #### What I'm doing
-**Director, XPRING Engineering** at [**Ripple**](https://ripple.com)
+**Director, RippleX** at [**Ripple**](https://ripple.com)
 
 I am a software engineer and cryptographer. At Ripple, I work on open-source code, mostly around the XRP Ledger. My goal is to build a settlement solution that allows for real-time low-cost international payments over a global network that is open to everyone but is owned by no-one. Check out the [`rippled`](https://github.com/ripple/rippled) GitHub repo, which is the backbone of that effort.
 
