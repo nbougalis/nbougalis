@@ -1,19 +1,18 @@
 ### 👋 Hi! I'm Nik Bougalis.
 
 #### What I'm doing
-**Director of Engineering, RippleX** at [**Ripple**](https://ripple.com)
 
-I am a software engineer and cryptographer. At Ripple, I work on open-source code, mostly around the XRP Ledger. My goal is to build a settlement solution that allows for real-time low-cost international payments over a global network that is open to everyone but is owned by no-one. Check out the [`rippled`](https://github.com/ripple/rippled) GitHub repo, which is the backbone of that effort.
-
-I am also working on something cool at [**Number8**](http://www.number8.us/).
+I am currently Chief Technology Officer, but I won't tell you where just yet. Stay tuned! 😉
 
 #### What I've done
 
-A lot! I co-founded CodeLaboratories, a successful software and hardware company which makes the DUO3D stereo camera. Over the past twenty years, I have developed just about everything—from shiny user interfaces to low-level kernel drivers. I've worked on servers that handle tens of thousands of users, caching software that accelerates hard drives using SSDs and encrypted distributed storage & backup systems.
+A lot! I led an amazing team of C++ engineers at [Ripple](https://ripple.com), developed some cool technology at [Samsung](https://samsung.com) and co-founded [CodeLaboratories](https://codelaboratories.com/).
+
+Over the past twenty five years, I have developed just about everything—from shiny user interfaces to low-level kernel drivers. I've worked on scaling blockchains systems, developed consensus algorithms, coded servers that handle tens of thousands of users, created kernel and BIOS drivers to optimize HDD and SSD perfromance, and worked on early iterations of encrypted distributed storage and backup systems.
 
 #### My Interests
 
 My interests are diverse. Currently I'm focused on blockchain, cryptography, security, software integrity and protection and secure computing and storage.
 
-#### Contact
+### Contact ###
 You can find me on Twitter as [**@nbougalis**](https://twitter.com/nbougalis) and on [StackExchange](https://stackoverflow.com/users/970543/nik-bougalis). My personal webpage is **https://nik.bougalis.net**.
