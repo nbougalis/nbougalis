@@ -2,7 +2,7 @@
 
 #### What I'm doing
 
-I am currently Chief Technology Officer, but I won't tell you where just yet. Stay tuned! 😉
+I am currently Chief Technology Officer at [Marco Financial](https://marcofi.com) working with an amazing team, both technical and non-technical.
 
 #### What I've done
 
