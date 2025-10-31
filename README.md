@@ -1,18 +1,18 @@
-### 👋 Hi! I'm Nik Bougalis.
+## 👋 Hi! I'm Nik Bougalis.
 
-#### What I'm doing
+### What I've done
 
-Working on something new and cool. Stay tuned.
+I am a cryptographer and a software engineer with a robust academic background, significant management experience and over 20 years of practical, hands-on development experience, primarily in C++.
 
-#### What I've done
+I have developed just about everything from shiny user interfaces to low-level kernel drivers. I’ve worked on servers that handle tens of thousands of users, caching software that accelerates hard drives using SSDs, encrypted communications systems and secure distributed storage & backup systems. 
 
-A lot! As Chief Technology Officer at [Marco Financial](https://marcofi.com), I worked with an amazing team, both technical and non-technical. At [Ripple](https://ripple.com), I led an amazing team of C++ engineers working on open-source blockchain code. At [Samsung](https://samsung.com), I was one of the key contributor to code that accelerated the perfromance of the 8xx series of SSDs. I also co-founded [CodeLaboratories](https://codelaboratories.com/), which has been doing some amazing boutique software and hardware R&D.
+Together with [Alex Popovich](http://alexpopovich.com/), I co-founded [CodeLaboratories](https://codelaboratories.com/), which has gone on to develop a range of successful software and hardware products including the [DUO3D](https://duo3d.com/) stereo camera. 
 
-Over the past twenty five years, I have developed just about everything—from shiny user interfaces to low-level kernel drivers. I've worked on scaling blockchains systems, developed consensus algorithms, coded servers that handle tens of thousands of users, created kernel and BIOS drivers to optimize HDD and SSD perfromance, and worked on early iterations of encrypted distributed storage and backup systems.
+### My Interests
 
-#### My Interests
+My interests are diverse. Currently my professional interests are focused on blockchain and fintech, security and distributed computing.
 
-My interests are diverse. Currently I'm focused on cryptography, security, software integrity and protection and secure computing and storage.
+I enjoy reading books, primarily on physics and philosophy, but will devour just about any non-fiction work placed in front of me. I have been involved with remote control cars and planes for many years and derive a lot of satisfaction from that.
 
 ### Contact ###
 You can find me on Twitter as [**@nbougalis**](https://twitter.com/nbougalis) and on [StackExchange](https://stackoverflow.com/users/970543/nik-bougalis). My personal webpage is **https://nik.bougalis.net**.
